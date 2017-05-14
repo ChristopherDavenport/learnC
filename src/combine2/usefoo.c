@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "foo.h"
 int foo();
 
 int main(){
